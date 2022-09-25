@@ -1,0 +1,64 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    color: white;
+    text-align: center;
+}
+
+#portada{
+    background-image:url(./img/WhatsApp\ Image\ 2022-09-22\ at\ 16.03.01.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+a{
+    text-decoration: none;
+}
+
+.btn{
+    margin-bottom: 20px;
+    margin-top: 5px;
+    font-family: 'Quicksand', sans-serif,bold;
+}
+
+h1{
+    font-family: Luxurious Script;
+    font-size: 250px;
+    margin-top: 80px;
+}
+
+h2{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 35px;
+    margin-top: -50px;
+}
+
+.uno h2{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 130px;
+    margin-top: 20px;
+}
+
+.uno img{
+    position: relative;
+    margin-top: -200px;
+    margin-right: -300px;
+}
+
+.accion h3{
+    font-family: Qwigley;
+    font-size: 60px;
+    margin-bottom: 20px;
+    margin-top: -20px;
+}
+
+.lugar h3{
+    font-family: Roboto Slab,bold,cursive;
+    font-size: 30px;
+}
+
+.fecha h3{
+    font-family: Roboto Slab,bold,cursive;
+    font-size: 30px;
+}
