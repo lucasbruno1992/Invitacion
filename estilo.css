@@ -2,14 +2,14 @@
     box-sizing: border-box;
     margin: 0;
     padding: 0;
-    color: white;
+    color: #BFA5A5;
     text-align: center;
 }
 
-#portada{
+body{
     background-image:url(./img/WhatsApp\ Image\ 2022-09-22\ at\ 16.03.01.jpeg);
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size:cover;
 }
 
 a{
@@ -20,12 +20,14 @@ a{
     margin-bottom: 20px;
     margin-top: 5px;
     font-family: 'Quicksand', sans-serif,bold;
+    /*background-color:#EDC69A;*/
+    border-color: white;
 }
 
 h1{
     font-family: Luxurious Script;
-    font-size: 250px;
-    margin-top: 80px;
+    font-size: 200px;
+    margin-top: 80;
 }
 
 h2{
@@ -38,12 +40,13 @@ h2{
     font-family: 'Times New Roman', Times, serif;
     font-size: 130px;
     margin-top: 20px;
+    margin-right: 100px;
 }
 
 .uno img{
     position: relative;
     margin-top: -200px;
-    margin-right: -300px;
+    margin-right: -200px;
 }
 
 .accion h3{
